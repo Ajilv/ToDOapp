@@ -96,5 +96,3 @@ var xhttp = new XMLHttpRequest();
 
     xhttp.open("GET", "https://jsonplaceholder.typicode.com/todos", true);
     xhttp.send();
-
-    
